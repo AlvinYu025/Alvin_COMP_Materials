@@ -1,1 +1,1 @@
-# COMP_Course_Materials
+# COMP Course Materials
